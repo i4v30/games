@@ -1,4 +1,0 @@
-run = "node -r repl.uptime/start index.js"
-
-[nix]
-channel = "stable-22_11"
